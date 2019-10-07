@@ -1591,3 +1591,4 @@ Signed,
 - Shaily ([@Shaily20](https://github.com/Shaily20)), Information Technology Undergraduate, New Delhi, India
 - Danil Shankovskiy ([@BeAsYit](https://github.com/BeAsYit)), CS Student, Ukraine
 - Ari F. ([@fanuch](https://github.com/fanuch)), Melbourne, Australia
+- Matt A. ([@Matt](https://github.com/Matthew-Auld)), Melbourne, Australia
