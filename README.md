@@ -15,7 +15,7 @@ past. Your impact in the Open Source movement is unprecedented.
 We want to express our gratitude for all you've done and do for Open Source.
 
 GitHub, thank you very much.
-
+hello
 Signed,
 
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
